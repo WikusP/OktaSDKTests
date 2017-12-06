@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_2_OktaCoreClient", "UnitTestProject1\UnitTestProject_2_OktaCoreClient.csproj", "{883FF372-AE44-4B00-9A7C-8D2F118C8CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_1_OktaSdk", "UnitTestProject2\UnitTestProject_1_OktaSdk.csproj", "{D264F6F4-9ECB-4F93-83F4-2F7BA4CEC256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883FF372-AE44-4B00-9A7C-8D2F118C8CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883FF372-AE44-4B00-9A7C-8D2F118C8CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883FF372-AE44-4B00-9A7C-8D2F118C8CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883FF372-AE44-4B00-9A7C-8D2F118C8CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D264F6F4-9ECB-4F93-83F4-2F7BA4CEC256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D264F6F4-9ECB-4F93-83F4-2F7BA4CEC256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D264F6F4-9ECB-4F93-83F4-2F7BA4CEC256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D264F6F4-9ECB-4F93-83F4-2F7BA4CEC256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
